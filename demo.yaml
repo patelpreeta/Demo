@@ -172,6 +172,6 @@ kind: Domain
 metadata:
   name: digital-twin
   description: Everything related to digital-twin
-  title: Digital-Twin
+  title: Digital-Twin1
 spec:
   owner: team-a
