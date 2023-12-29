@@ -166,3 +166,12 @@ spec:
   type: database
   owner: user:guest
   lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: digital twin
+  description: Everything related to Digital Twin
+  title: Digital Twin
+spec:
+  owner: team-adfolks
