@@ -170,8 +170,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: digital twin
-  description: Everything related to Digital Twin
-  title: Digital Twin
+  name: digital-twin
+  description: Everything related to digital-twin
+  title: Digital-Twin
 spec:
-  owner: team-adfolks
+  owner: team-a
